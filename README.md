@@ -1,0 +1,12 @@
+# jsjr666  
+1. code2name：股票名称及对应代码  
+2. data_storage：对某几只股票33个字段的数据进行存储。新浪云上设置计划任务，每隔半分钟执行一次  
+3. signup：实验室报名平台  
+4. train：春节火车信息  
+5. wx_menu：微信菜单设置  
+6. discussion.php：duoshuo讨论版。作为微信平台的用户留言板  
+7. index.php：实验室微信后台开发文件  
+8. simple_html_dom.php：php抓取网页数据模块  
+9. test.php：测试数据库连接是否正常  
+10. test_getstockAnalysis.php：获取股票分析的信息函的数测试  
+11. test_getstockInfo.php：获取股票基本信息的函数测试
