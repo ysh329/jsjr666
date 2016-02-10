@@ -1,0 +1,8 @@
+﻿name: jsjr666
+version: 1
+accesskey: y3kz54y14m
+cron:  
+    - description: data_storage_9:00-11:00
+      url: data_storage/test.php
+      schedule: "*/1 9-15 * * 1-5"
+      timezone: Beijing
